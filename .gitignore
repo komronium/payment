@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# Virtualenvs & env files
+.env
+.venv
+ENV/
+venv/
+env/
+.env.local
+
+# Django
+*.log
+static/
+staticfiles/
+media/
+local_settings.py
+
+# SQLite
+*.sqlite3
+*.sqlite3-journal
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Tests
+.coverage
+.coverage.*
+htmlcov/
+pytest_cache/
+.tox/
+
+# Typing
+.mypy_cache/
+.dmypy.json
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db

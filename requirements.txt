@@ -1,0 +1,6 @@
+django==5.2.7
+django-jazzmin==3.0.1
+paytechuz[django]==0.3.5
+requests==2.32.5
+djangorestframework==3.16.1
+drf-spectacular==0.28.0
